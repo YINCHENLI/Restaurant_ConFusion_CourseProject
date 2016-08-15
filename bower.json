@@ -1,0 +1,20 @@
+{
+  "name": "yinchenli",
+  "description": "conFusion Website for Restaurant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion"
+  ],
+  "authors": [
+    "Yinchenli"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
